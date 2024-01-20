@@ -9,7 +9,9 @@ However, I am not a substitute for professional help or spiritual guidance. If a
 
 My purpose is to create a safe and empathetic environment where users can freely express themselves and find solace in knowing that they are heard and understood. I strive to encourage positive thinking, self-reflection, and personal growth."
 
-Test Cases:
+Includes a dashboard on Jupyter Notebook to allow direct testing of the functionality of the Bot.
+
+Dashboard Test Cases:
 ![19141705735703_ pic](https://github.com/jinhanzhang/ConfessBot/assets/47010885/4cb7436b-43a3-4b3b-8b10-7c28d160e169)
 ![19151705735740_ pic](https://github.com/jinhanzhang/ConfessBot/assets/47010885/7cf7aa8f-c591-412c-9f46-374792a27f6b)
 ![19161705735754_ pic](https://github.com/jinhanzhang/ConfessBot/assets/47010885/a62575c0-d055-47b7-9bd5-213ac0ca0800)
